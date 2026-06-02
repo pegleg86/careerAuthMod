@@ -1,1 +1,1 @@
-This script acts as a localized account manager. When a player joins as a guest, they won't be able to move or drive until they type /register <password> in the chat. On subsequent visits, they must type /login <password>.
+This script acts as a localized account manager. When a player joins as a guest, they won't be able to move or drive until they type /register "password" in the chat. On subsequent visits, they must type /login "password".
